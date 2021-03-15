@@ -1,0 +1,7 @@
+Joe	    21	90
+Jian	22	92
+Chris	23	90
+Sai	    24	95
+Andrew	25	100
+Lynn	26	90
+Robert	27	85

@@ -1,0 +1,18 @@
+.red-with-padding {
+    padding: 5px !important;
+    background:slategrey;
+  }
+  .cooler-gray-with-large-padding {
+    padding: 70px !important;
+    background:lightslategrey;
+  }
+
+  .table {
+      background-color: whitesmoke;
+      border: 1px solid rgb(87, 86, 86);
+  }
+
+  form {
+      background-color: slategrey;
+      border: 1px solid rgb(87, 86, 86);
+  }
