@@ -31,6 +31,7 @@ class MyTable extends Component {
     }
 
     deleteEntry = (id, event) => {
+        event.preventDefault();
         fetch("/deleteDB", {
             method: "POST",
             cache: "no-cache",
