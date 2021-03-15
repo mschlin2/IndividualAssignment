@@ -7,11 +7,10 @@ Terminal 1:
 
 Terminal 2:
 > $env:FLASK_APP = "api.py" (only do this if running in Windows Powershell)
-> cd api
-> yarn start
+> yarn start-api
 
 Your browser should automatically open up on http://localhost:3000/
-$env:FLASK_APP = "api.py"
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
